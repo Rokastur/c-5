@@ -1,0 +1,6 @@
+C:\Users\Rokas\Documents\dotnet\c-5\convertNametoUppercase\convertNametoUppercase\bin\Debug\convertNametoUppercase.exe.config
+C:\Users\Rokas\Documents\dotnet\c-5\convertNametoUppercase\convertNametoUppercase\bin\Debug\convertNametoUppercase.exe
+C:\Users\Rokas\Documents\dotnet\c-5\convertNametoUppercase\convertNametoUppercase\bin\Debug\convertNametoUppercase.pdb
+C:\Users\Rokas\Documents\dotnet\c-5\convertNametoUppercase\convertNametoUppercase\obj\Debug\convertNametoUppercase.csprojAssemblyReference.cache
+C:\Users\Rokas\Documents\dotnet\c-5\convertNametoUppercase\convertNametoUppercase\obj\Debug\convertNametoUppercase.exe
+C:\Users\Rokas\Documents\dotnet\c-5\convertNametoUppercase\convertNametoUppercase\obj\Debug\convertNametoUppercase.pdb

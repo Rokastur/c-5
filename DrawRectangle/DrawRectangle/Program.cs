@@ -23,8 +23,7 @@ namespace DrawRectangle
             int m = int.Parse(Console.ReadLine());
             int n = int.Parse(Console.ReadLine());
 
-            string inside = ((m > x && m < x1) && (n > y && n < y1)) ? "inside" : "outside";
-            // || ((m < x && m > x1) && (n < y && n > y1))
+            string inside = ((m > x && m < x1) && (n > y && n < y1)) || ((m < x && m > x1) && (n < y && n > y1)) ? "inside" : "outside";
             Console.WriteLine(inside);
             Console.ReadLine();
 
